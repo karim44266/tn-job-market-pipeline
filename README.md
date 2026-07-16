@@ -5,6 +5,7 @@ extracts structured skill/location/company data, loads it into a database, and
 visualizes it in an interactive dashboard.
 
 ## Demo
+🔗 **[Live Demo](https://tn-job-market-pipeline0.streamlit.app/)** 
 
 ![Dashboard overview](image.png)
 
