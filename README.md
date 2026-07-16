@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ```bash
 # 1. Scrape job postings (raw data)
-python scraper/scrape_tanitjobs.py --pages 5
+python scraper/scrape_tanitjobs_uc.py --pages 10
 
 # 2. Transform: clean + extract skills
 python transform/transform_jobs.py

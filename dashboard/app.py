@@ -26,7 +26,7 @@ def load_data():
     return postings, skills
 
 
-st.title("🇹🇳 Tunisia Tech Job Market Dashboard")
+st.title("🇹🇳 Tunisia Tech Job Market .Dashboard")
 st.caption("Built from live-scraped IT job postings — tracks skill demand, "
            "location distribution, and hiring companies over time.")
 
