@@ -5,8 +5,10 @@ extracts structured skill/location/company data, loads it into a database, and
 visualizes it in an interactive dashboard.
 
 ## Demo
+
 🔗 **[Live Demo](https://tn-job-market-pipeline0.streamlit.app/)** 
 
+*Note: the live demo shows a snapshot from a scraping run, since the source site blocks cloud-hosted scrapers. Run the pipeline locally (see Setup below) to collect fresh data.*
 ![Dashboard overview](image.png)
 
 ![Top skills chart](image-1.png)
